@@ -1,44 +1,44 @@
 {
-  "weekStart": "2024-09-02",
-  "lastUpdated": "2024-09-02T09:00:00+05:30",
+  "weekStart": "2025-09-02",
+  "lastUpdated": "2025-09-02T09:00:00+05:30",
   "meals": {
-    "2024-09-02": {
+    "2025-09-02": {
       "breakfast": "Cornflakes, Bread, Butter, Tea",
       "lunch": "Dal Fry, Rice, Paneer",
       "hi_tea": "Maggi, Tea",
       "dinner": "Kofta, Rice"
     },
-    "2024-09-03": {
+    "2025-09-03": {
       "breakfast": "Oats1, Bread, Tea",
       "lunch": "Rajma, Rice, Roti",
       "hi_tea": "Sandwich, Tea",
       "dinner": "Paneer Tikka, Rice"
     },
-    "2024-09-04": {
+    "2025-09-04": {
       "breakfast": "Oats2, Bread, Tea",
       "lunch": "Rajma, Rice, Roti",
       "hi_tea": "Sandwich, Tea",
       "dinner": "Paneer Tikka, Rice"
     },
-    "2024-09-05": {
+    "2025-09-05": {
       "breakfast": "Oats3, Bread, Tea",
       "lunch": "Rajma, Rice, Roti",
       "hi_tea": "Sandwich, Tea",
       "dinner": "Paneer Tikka, Rice"
     },
-    "2024-09-06": {
+    "2025-09-06": {
       "breakfast": "Oats4, Bread, Tea",
       "lunch": "Rajma, Rice, Roti",
       "hi_tea": "Sandwich, Tea",
       "dinner": "Paneer Tikka, Rice"
     },
-    "2024-09-07": {
+    "2025-09-07": {
       "breakfast": "Oats5, Bread, Tea",
       "lunch": "Rajma, Rice, Roti",
       "hi_tea": "Sandwich, Tea",
       "dinner": "Paneer Tikka, Rice"
     },
-    "2024-09-08": {
+    "2025-09-08": {
       "breakfast": "Oats6, Bread, Tea",
       "lunch": "Rajma, Rice, Roti",
       "hi_tea": "Sandwich, Tea",
